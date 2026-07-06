@@ -1,7 +1,6 @@
 ---
 title: NebariApp CRD Reference
 description: Complete field-by-field reference for the NebariApp custom resource.
-sidebar_position: 3
 ---
 
 # NebariApp CRD Reference

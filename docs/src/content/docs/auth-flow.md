@@ -1,7 +1,6 @@
 ---
 title: Authentication Flow
 description: How OIDC authentication works for Nebari Software Packs.
-sidebar_position: 2
 ---
 
 # Authentication Flow
